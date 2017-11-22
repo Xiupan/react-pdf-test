@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Page, Text, View, Document, StyleSheet } from '@react-pdf/core';
 
 class App extends Component {
   render() {
